@@ -10,6 +10,7 @@ namespace NEWTsConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to the Nastily Exhausting Wizarding Trivia!");
         }
     }
 }
